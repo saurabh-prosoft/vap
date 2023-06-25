@@ -1,0 +1,56 @@
+<em>Audio Source</em>
+
+<p>Generates a constant metronome indefinitely at a specified BPM.</p>
+
+<img alt="Audio Sources: File" src="/docs/img/audio-source-metronome.png" />
+
+<h2>Inputs</h2>
+
+<section class="input">
+  <div data-term="event"></div>
+  <span>trigger (<em>event</em>)</span>
+  <br />
+  Triggers the metronome upon receiving an event on this terminal.
+</section>
+<section class="input">
+  <div data-term="audioparam"></div>
+  <span>gain (<em>audioparam</em>)</span>
+  <br />
+  Controls gain of audio output.
+</section>
+<section class="input">
+  <div data-term="audioparam"></div>
+  <span>detune (<em>audioparam</em>)</span>
+  <br />
+  Controls tune adjustment of audio output.
+</section>
+<section class="input">
+  <div data-term="audioparam"></div>
+  <span>playback-rate (<em>audioparam</em>)</span>
+  <br />
+  Controls output playback rate.
+</section>
+
+<h2>Outputs</h2>
+
+<section class="output">
+  <div data-term="audio"></div>
+  <span>out (<em>audio</em>)</span>
+  <br />
+  The audio output.
+</section>
+
+<h2>Properties</h2>
+
+<section class="prop">
+  <span class="name">Auto</span>
+  <span class="desc">Whether to start the metronome automatically or wait for a trigger</span>
+</section>
+<section class="prop">
+  <span class="name">Frequency</span>
+  <span class="desc">The frequency of the generated clicks</span>
+</section>
+<section class="prop">
+  <span class="name">BPM</span>
+  <span class="desc">Beats per minute</span>
+</section>

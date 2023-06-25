@@ -1,0 +1,58 @@
+<em>Audio Source</em>
+
+<p>Creates an audio source from a file.</p>
+
+<img alt="Audio Sources: File" src="/docs/img/audio-source-file-1.png" />
+
+<h2>Inputs</h2>
+
+<section class="input">
+  <div data-term="event"></div>
+  <span>array-buffer (<em>event</em>)</span>
+  <br />
+  Configures a new audio source based on an event received on this terminal.
+</section>
+<section class="input">
+  <div data-term="audioparam"></div>
+  <span>gain (<em>audioparam</em>)</span>
+  <br />
+  Controls gain of audio output.
+</section>
+<section class="input">
+  <div data-term="audioparam"></div>
+  <span>detune (<em>audioparam</em>)</span>
+  <br />
+  Controls tune adjustment of audio output.
+</section>
+<section class="input">
+  <div data-term="audioparam"></div>
+  <span>playback-rate (<em>audioparam</em>)</span>
+  <br />
+  Controls output playback rate.
+</section>
+
+<h2>Outputs</h2>
+
+<section class="output">
+  <div data-term="audio"></div>
+  <span>out (<em>audio</em>)</span>
+  <br />
+  The audio output.
+</section>
+<section class="output">
+  <div data-term="event"></div>
+  <span>ended (<em>event</em>)</span>
+  <br />
+  Fires an event on this terminal when audio playback has finished.
+</section>
+
+<h2>Properties</h2>
+
+<section class="prop">
+  <span class="name">File</span>
+  <span class="desc">The audio source file</span>
+</section>
+<section class="prop">
+  <span class="name">Loop</span>
+  <span class="desc">Whether to loop upon audio playback completion</span>
+</section>

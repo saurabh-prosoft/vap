@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "name": "Sources",
+    "icon": "audioSource",
+    "nodes": [
+      {
+        "name": "File",
+        "icon": "file",
+        "docs": "/docs/source/file.html",
+        "type": "audio/source"
+      },
+      {
+        "name": "File Buffer",
+        "icon": "buffer",
+        "docs": "/docs/source/file-buffer.html",
+        "type": "audio/buffer-source"
+      },
+      {
+        "name": "Noise",
+        "icon": "noise",
+        "docs": "/docs/source/noise.html",
+        "type": "audio/noise"
+      },
+      {
+        "name": "Oscillator",
+        "icon": "oscillator",
+        "docs": "/docs/source/oscillator.html",
+        "type": "audio/oscillator"
+      },
+      {
+        "name": "Metronome",
+        "icon": "metronome",
+        "docs": "/docs/source/metronome.html",
+        "type": "audio/metronome"
+      },
+      {
+        "name": "Microphone",
+        "icon": "microphone",
+        "docs": "/docs/source/microphone.html",
+        "type": "audio/microphone"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Outputs",
+    "icon": "audioOutput",
+    "nodes": [
+      {
+        "name": "Sound Output",
+        "icon": "soundOutput",
+        "docs": "/docs/output/destination.html",
+        "type": "audio/destination"
+      },
+      {
+        "name": "File Output",
+        "icon": "file",
+        "docs": "/docs/output/file.html",
+        "type": "audio/record"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Controllers",
+    "icon": "audioController",
+    "nodes": [
+      {
+        "name": "ADSR",
+        "icon": "adsr",
+        "docs": "/docs/controller/adsr.html",
+        "type": "audio/adsr"
+      },
+      {
+        "name": "Channel Merger",
+        "icon": "channelMerger",
+        "docs": "/docs/controller/channelmerger.html",
+        "type": "audio/channel-merger"
+      },
+      {
+        "name": "Channel Splitter",
+        "icon": "channelSplitter",
+        "docs": "/docs/controller/channelsplitter.html",
+        "type": "audio/channel-splitter"
+      },
+      {
+        "name": "Delay",
+        "icon": "delay",
+        "docs": "/docs/controller/delay.html",
+        "type": "audio/delay"
+      },
+      {
+        "name": "Stereo Panner",
+        "icon": "stereoPanner",
+        "docs": "/docs/controller/stereopanner.html",
+        "type": "audio/stereo-panner"
+      },
+      {
+        "name": "Spatial Panner",
+        "icon": "spatialPanner",
+        "docs": "/docs/controller/spatialpanner.html",
+        "type": "audio/spatial-panner"
+      },
+      {
+        "name": "Envelope",
+        "icon": "envelope",
+        "docs": "/docs/controller/automate.html",
+        "type": "audio/automate"
+      },
+      {
+        "name": "Gain",
+        "icon": "gain",
+        "docs": "/docs/controller/gain.html",
+        "type": "audio/gain"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Filters",
+    "icon": "audioFilter",
+    "nodes": [
+      {
+        "name": "Distorter",
+        "icon": "distorter",
+        "docs": "/docs/filter/distorter.html",
+        "type": "audio/distorter"
+      },
+      {
+        "name": "Overdrive",
+        "icon": "overdrive",
+        "docs": "/docs/filter/overdrive.html",
+        "type": "audio/overdrive"
+      },
+      {
+        "name": "Biquad Filter",
+        "icon": "biquadFilter",
+        "docs": "/docs/filter/biquad.html",
+        "type": "audio/biquad"
+      },
+      {
+        "name": "Dynamics Compressor",
+        "icon": "dynamicsCompressor",
+        "docs": "/docs/filter/dynamicscompressor.html",
+        "type": "audio/dynamics-compressor"
+      },
+      {
+        "name": "PingPong Delay",
+        "icon": "pingPongDelay",
+        "docs": "/docs/filter/pingpong.html",
+        "type": "audio/pingpong"
+      },
+      {
+        "name": "Bitcrusher",
+        "icon": "bitcrusher",
+        "docs": "/docs/filter/bitcrusher.html",
+        "type": "audio/bitcrusher"
+      },
+      {
+        "name": "Equalizer",
+        "icon": "equalizer",
+        "docs": "/docs/filter/equalizer.html",
+        "type": "audio/equalizer"
+      },
+      {
+        "name": "Chorus",
+        "icon": "chorus",
+        "docs": "/docs/filter/chorus.html",
+        "type": "audio/chorus"
+      },
+      {
+        "name": "Convolver",
+        "icon": "convolver",
+        "docs": "/docs/filter/convolver.html",
+        "type": "audio/convolver"
+      },
+      {
+        "name": "Tremolo",
+        "icon": "tremolo",
+        "docs": "/docs/filter/tremolo.html",
+        "type": "audio/tremolo"
+      },
+      {
+        "name": "Moog",
+        "icon": "moog",
+        "docs": "/docs/filter/moog.html",
+        "type": "audio/moog"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Analyzers",
+    "icon": "audioAnalyzer",
+    "nodes": [
+      {
+        "name": "Frequency",
+        "icon": "frequencyAnalyzer",
+        "docs": "/docs/analyzer/freq.html",
+        "type": "audio/frequency"
+      },
+      {
+        "name": "Spectrogram",
+        "icon": "spectrogramAnalyzer",
+        "docs": "/docs/analyzer/spectrogram.html",
+        "type": "audio/spectrogram"
+      },
+      {
+        "name": "Waveform",
+        "icon": "waveformAnalyzer",
+        "docs": "/docs/analyzer/waveform.html",
+        "type": "audio/waveform"
+      }
+    ]
+  }
+]

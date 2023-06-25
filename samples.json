@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Bass",
+    "samples": [
+      {
+        "name": "Bass 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%201.wav"
+      },
+      {
+        "name": "Bass Berserk 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Berserk%201.wav"
+      },
+      {
+        "name": "Bass Berserk 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Berserk%202.wav"
+      },
+      {
+        "name": "Bass Berserk 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Berserk%203.wav"
+      },
+      {
+        "name": "Bass Dubstep 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Dubstep%201.wav"
+      },
+      {
+        "name": "Bass Dubstep 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Dubstep%202.wav"
+      },
+      {
+        "name": "Bass Dubstep 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Dubstep%203.wav"
+      },
+      {
+        "name": "Bass Dubstep 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Dubstep%204.wav"
+      },
+      {
+        "name": "Bass Dubstep 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Dubstep%205.wav"
+      },
+      {
+        "name": "Bass PsyTrance 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20PsyTrance%201.wav"
+      },
+      {
+        "name": "Bass PsyTrance 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20PsyTrance%202.wav"
+      },
+      {
+        "name": "Bass PsyTrance 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20PsyTrance%203.wav"
+      },
+      {
+        "name": "Bass Tech 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Tech%201.wav"
+      },
+      {
+        "name": "Bass Tech 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Tech%202.wav"
+      },
+      {
+        "name": "Bass Tech 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Tech%203.wav"
+      },
+      {
+        "name": "Bass Tech 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Bass/Bass%20Tech%204.wav"
+      }
+    ]
+  },
+  {
+    "name": "Drum",
+    "samples": [
+      {
+        "name": "Drum 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%201.wav"
+      },
+      {
+        "name": "Drum 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%202.wav"
+      },
+      {
+        "name": "Drum 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%203.wav"
+      },
+      {
+        "name": "Drum 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%204.wav"
+      },
+      {
+        "name": "Drum 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%205.wav"
+      },
+      {
+        "name": "Drum Berserk 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Berserk%201.wav"
+      },
+      {
+        "name": "Drum Berserk 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Berserk%202.wav"
+      },
+      {
+        "name": "Drum Berserk 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Berserk%203.wav"
+      },
+      {
+        "name": "Drum Berserk 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Berserk%204.wav"
+      },
+      {
+        "name": "Drum Dubstep 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%201.wav"
+      },
+      {
+        "name": "Drum Dubstep 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%202.wav"
+      },
+      {
+        "name": "Drum Dubstep 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%203.wav"
+      },
+      {
+        "name": "Drum Dubstep 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%204.wav"
+      },
+      {
+        "name": "Drum Dubstep 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%205.wav"
+      },
+      {
+        "name": "Drum Dubstep 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%206.wav"
+      },
+      {
+        "name": "Drum Dubstep 7",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%207.wav"
+      },
+      {
+        "name": "Drum Dubstep 8",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%208.wav"
+      },
+      {
+        "name": "Drum Dubstep 9",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Dubstep%209.wav"
+      },
+      {
+        "name": "Drum House 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%201.wav"
+      },
+      {
+        "name": "Drum House 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%202.wav"
+      },
+      {
+        "name": "Drum House 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%203.wav"
+      },
+      {
+        "name": "Drum House 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%204.wav"
+      },
+      {
+        "name": "Drum House 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%205.wav"
+      },
+      {
+        "name": "Drum House 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%206.wav"
+      },
+      {
+        "name": "Drum House 7",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%207.wav"
+      },
+      {
+        "name": "Drum House 8",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20House%208.wav"
+      },
+      {
+        "name": "Drum PsyTrance 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20PsyTrance%201.wav"
+      },
+      {
+        "name": "Drum PsyTrance 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20PsyTrance%202.wav"
+      },
+      {
+        "name": "Drum PsyTrance 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20PsyTrance%203.wav"
+      },
+      {
+        "name": "Drum PsyTrance 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20PsyTrance%204.wav"
+      },
+      {
+        "name": "Drum PsyTrance 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20PsyTrance%205.wav"
+      },
+      {
+        "name": "Drum PsyTrance 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20PsyTrance%206.wav"
+      },
+      {
+        "name": "Drum Tech 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%201.wav"
+      },
+      {
+        "name": "Drum Tech 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%202.wav"
+      },
+      {
+        "name": "Drum Tech 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%203.wav"
+      },
+      {
+        "name": "Drum Tech 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%204.wav"
+      },
+      {
+        "name": "Drum Tech 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%205.wav"
+      },
+      {
+        "name": "Drum Tech 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%206.wav"
+      },
+      {
+        "name": "Drum Tech 7",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%207.wav"
+      },
+      {
+        "name": "Drum Tech 8",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%208.wav"
+      },
+      {
+        "name": "Drum Tech 9",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Tech%209.wav"
+      },
+      {
+        "name": "Drum Trap 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Trap%201.wav"
+      },
+      {
+        "name": "Drum Trap 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Trap%202.wav"
+      },
+      {
+        "name": "Drum Trap 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Trap%203.wav"
+      },
+      {
+        "name": "Drum Vintage 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Vintage%201.wav"
+      },
+      {
+        "name": "Drum Vintage 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Vintage%202.wav"
+      },
+      {
+        "name": "Drum Vintage 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Drum/Drum%20Vintage%203.wav"
+      }
+    ]
+  },
+  {
+    "name": "Synth",
+    "samples": [
+      {
+        "name": "Synth 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%201.wav"
+      },
+      {
+        "name": "Synth Berserk 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Berserk%201.wav"
+      },
+      {
+        "name": "Synth Berserk 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Berserk%202.wav"
+      },
+      {
+        "name": "Synth Berserk 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Berserk%203.wav"
+      },
+      {
+        "name": "Synth Berserk 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Berserk%204.wav"
+      },
+      {
+        "name": "Synth Berserk 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Berserk%205.wav"
+      },
+      {
+        "name": "Synth Berserk 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Berserk%206.wav"
+      },
+      {
+        "name": "Synth Funk 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%201.wav"
+      },
+      {
+        "name": "Synth Funk 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%202.wav"
+      },
+      {
+        "name": "Synth Funk 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%203.wav"
+      },
+      {
+        "name": "Synth Funk 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%204.wav"
+      },
+      {
+        "name": "Synth Funk 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%205.wav"
+      },
+      {
+        "name": "Synth Funk 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%206.wav"
+      },
+      {
+        "name": "Synth Funk 7",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%207.wav"
+      },
+      {
+        "name": "Synth Funk 8",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%208.wav"
+      },
+      {
+        "name": "Synth Funk 9",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%209.wav"
+      },
+      {
+        "name": "Synth Funk 10",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%2010.wav"
+      },
+      {
+        "name": "Synth Funk 11",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%2011.wav"
+      },
+      {
+        "name": "Synth Funk 12",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%2012.wav"
+      },
+      {
+        "name": "Synth Funk 13",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Funk%2013.wav"
+      },
+      {
+        "name": "Synth Leviathan 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%201.wav"
+      },
+      {
+        "name": "Synth Leviathan 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%202.wav"
+      },
+      {
+        "name": "Synth Leviathan 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%203.wav"
+      },
+      {
+        "name": "Synth Leviathan 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%204.wav"
+      },
+      {
+        "name": "Synth Leviathan 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%205.wav"
+      },
+      {
+        "name": "Synth Leviathan 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%206.wav"
+      },
+      {
+        "name": "Synth Leviathan 7",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%207.wav"
+      },
+      {
+        "name": "Synth Leviathan 8",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%208.wav"
+      },
+      {
+        "name": "Synth Leviathan 9",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%209.wav"
+      },
+      {
+        "name": "Synth Leviathan 10",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2010.wav"
+      },
+      {
+        "name": "Synth Leviathan 11",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2011.wav"
+      },
+      {
+        "name": "Synth Leviathan 12",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2012.wav"
+      },
+      {
+        "name": "Synth Leviathan 13",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2013.wav"
+      },
+      {
+        "name": "Synth Leviathan 14",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2014.wav"
+      },
+      {
+        "name": "Synth Leviathan 15",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2015.wav"
+      },
+      {
+        "name": "Synth Leviathan 16",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2016.wav"
+      },
+      {
+        "name": "Synth Leviathan 17",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2017.wav"
+      },
+      {
+        "name": "Synth Leviathan 18",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2018.wav"
+      },
+      {
+        "name": "Synth Leviathan 19",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2019.wav"
+      },
+      {
+        "name": "Synth Leviathan 20",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2020.wav"
+      },
+      {
+        "name": "Synth Leviathan 21",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Leviathan%2021.wav"
+      },
+      {
+        "name": "Synth PsyTrance 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20PsyTrance%201.wav"
+      },
+      {
+        "name": "Synth PsyTrance 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20PsyTrance%202.wav"
+      },
+      {
+        "name": "Synth PsyTrance 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20PsyTrance%203.wav"
+      },
+      {
+        "name": "Synth Tech 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Tech%201.wav"
+      },
+      {
+        "name": "Synth Tech 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Tech%202.wav"
+      },
+      {
+        "name": "Synth Tech 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Tech%203.wav"
+      },
+      {
+        "name": "Synth Tech 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Tech%204.wav"
+      },
+      {
+        "name": "Synth Tech 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Tech%205.wav"
+      },
+      {
+        "name": "Synth Tech 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Synth/Synth%20Tech%206.wav"
+      }
+    ]
+  },
+  {
+    "name": "Voice",
+    "samples": [
+      {
+        "name": "Voice 1",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%201.wav"
+      },
+      {
+        "name": "Voice 2",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%202.wav"
+      },
+      {
+        "name": "Voice 3",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%203.wav"
+      },
+      {
+        "name": "Voice 4",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%204.wav"
+      },
+      {
+        "name": "Voice 5",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%205.wav"
+      },
+      {
+        "name": "Voice 6",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%206.wav"
+      },
+      {
+        "name": "Voice 7",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%207.wav"
+      },
+      {
+        "name": "Voice 8",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%208.wav"
+      },
+      {
+        "name": "Voice 9",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%209.wav"
+      },
+      {
+        "name": "Voice 10",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2010.wav"
+      },
+      {
+        "name": "Voice 11",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2011.wav"
+      },
+      {
+        "name": "Voice 12",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2012.wav"
+      },
+      {
+        "name": "Voice 13",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2013.wav"
+      },
+      {
+        "name": "Voice 14",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2014.wav"
+      },
+      {
+        "name": "Voice 15",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2015.wav"
+      },
+      {
+        "name": "Voice 16",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2016.wav"
+      },
+      {
+        "name": "Voice 17",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2017.wav"
+      },
+      {
+        "name": "Voice 18",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2018.wav"
+      },
+      {
+        "name": "Voice 19",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2019.wav"
+      },
+      {
+        "name": "Voice 20",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2020.wav"
+      },
+      {
+        "name": "Voice 21",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2021.wav"
+      },
+      {
+        "name": "Voice 22",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2022.wav"
+      },
+      {
+        "name": "Voice 23",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2023.wav"
+      },
+      {
+        "name": "Voice 24",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2024.wav"
+      },
+      {
+        "name": "Voice 25",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2025.wav"
+      },
+      {
+        "name": "Voice 26",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2026.wav"
+      },
+      {
+        "name": "Voice 27",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2027.wav"
+      },
+      {
+        "name": "Voice 28",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2028.wav"
+      },
+      {
+        "name": "Voice 29",
+        "url": "https://raw.githubusercontent.com/saurabh-prosoft/vap/samples/samples/Voice/Voice%2029.wav"
+      }
+    ]
+  }
+]
